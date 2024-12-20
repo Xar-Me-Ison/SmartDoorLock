@@ -2,6 +2,9 @@
 
 SmartDoorLock is an advanced door locking system designed to enhance home security and convenience. It uses RFID technology and a web interface for remote control, providing an easy-to-use and secure solution for managing access to your home.
 
+## Video Showcase
+[![SmartDoorLock Thumbnail](http://img.youtube.com/vi/mKPvAptSUOg/0.jpg)](https://www.youtube.com/watch?v=mKPvAptSUOg "SmartDoorLock")
+
 ## Table of Contents
 - [SmartDoorLock](#smartdoorlock)
   - [Table of Contents](#table-of-contents)
